@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Area_of_Triangle/1.0.0": {
+        "runtime": {
+          "Area_of_Triangle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Area_of_Triangle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

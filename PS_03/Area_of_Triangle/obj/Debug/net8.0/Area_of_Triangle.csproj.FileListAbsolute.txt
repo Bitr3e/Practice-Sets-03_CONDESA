@@ -1,0 +1,15 @@
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\Area_of_Triangle\bin\Debug\net8.0\Area_of_Triangle.exe
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\Area_of_Triangle\bin\Debug\net8.0\Area_of_Triangle.deps.json
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\Area_of_Triangle\bin\Debug\net8.0\Area_of_Triangle.runtimeconfig.json
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\Area_of_Triangle\bin\Debug\net8.0\Area_of_Triangle.dll
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\Area_of_Triangle\bin\Debug\net8.0\Area_of_Triangle.pdb
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\Area_of_Triangle\obj\Debug\net8.0\Area_of_Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\Area_of_Triangle\obj\Debug\net8.0\Area_of_Triangle.AssemblyInfoInputs.cache
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\Area_of_Triangle\obj\Debug\net8.0\Area_of_Triangle.AssemblyInfo.cs
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\Area_of_Triangle\obj\Debug\net8.0\Area_of_Triangle.csproj.CoreCompileInputs.cache
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\Area_of_Triangle\obj\Debug\net8.0\Area_of_Triangle.sourcelink.json
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\Area_of_Triangle\obj\Debug\net8.0\Area_of_Triangle.dll
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\Area_of_Triangle\obj\Debug\net8.0\refint\Area_of_Triangle.dll
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\Area_of_Triangle\obj\Debug\net8.0\Area_of_Triangle.pdb
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\Area_of_Triangle\obj\Debug\net8.0\Area_of_Triangle.genruntimeconfig.cache
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\Area_of_Triangle\obj\Debug\net8.0\ref\Area_of_Triangle.dll
