@@ -1,0 +1,15 @@
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\LeapYear_or_Not\bin\Debug\net8.0\LeapYear_or_Not.exe
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\LeapYear_or_Not\bin\Debug\net8.0\LeapYear_or_Not.deps.json
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\LeapYear_or_Not\bin\Debug\net8.0\LeapYear_or_Not.runtimeconfig.json
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\LeapYear_or_Not\bin\Debug\net8.0\LeapYear_or_Not.dll
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\LeapYear_or_Not\bin\Debug\net8.0\LeapYear_or_Not.pdb
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\LeapYear_or_Not\obj\Debug\net8.0\LeapYear_or_Not.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\LeapYear_or_Not\obj\Debug\net8.0\LeapYear_or_Not.AssemblyInfoInputs.cache
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\LeapYear_or_Not\obj\Debug\net8.0\LeapYear_or_Not.AssemblyInfo.cs
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\LeapYear_or_Not\obj\Debug\net8.0\LeapYear_or_Not.csproj.CoreCompileInputs.cache
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\LeapYear_or_Not\obj\Debug\net8.0\LeapYear_or_Not.sourcelink.json
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\LeapYear_or_Not\obj\Debug\net8.0\LeapYear_or_Not.dll
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\LeapYear_or_Not\obj\Debug\net8.0\refint\LeapYear_or_Not.dll
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\LeapYear_or_Not\obj\Debug\net8.0\LeapYear_or_Not.pdb
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\LeapYear_or_Not\obj\Debug\net8.0\LeapYear_or_Not.genruntimeconfig.cache
+C:\Users\johnb\OneDrive\Documents\Practice-Sets-03-Functions\PS_03\LeapYear_or_Not\obj\Debug\net8.0\ref\LeapYear_or_Not.dll
