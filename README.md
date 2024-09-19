@@ -1,4 +1,5 @@
 # Practice-Sets-03-Functions
+**John Brence S. Condesa**
 
 Create a GitHub repository for this project, giving it a suitable name. Within the repository, establish a single project solution containing multiple console applications. Each console app should correspond to a specific number from the practice sets.
 
